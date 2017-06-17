@@ -17,10 +17,10 @@ Desenvolvido para a disciplina de Projeto Integrado 1 pela equipe Light Wave, do
 
 # Equipe
 
-  A equipe é formada por:
-    João Paulo Ribeiro
-    Marcilene Damasceno
-    Mário Silva
-    Vitória Facundo
-    William Victor
+A equipe é formada por:
+João Paulo Ribeiro
+Marcilene Damasceno
+Mário Silva
+Vitória Facundo
+William Victor
   
