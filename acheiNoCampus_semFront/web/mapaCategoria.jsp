@@ -31,7 +31,7 @@
         <title>Gerenciador de lugares</title>
     </head>
     <body>
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA6_6yiYvclHBE3E0kdtsPkDqxax7nAks8&callback=initMap"
+        <script src="https://maps.googleapis.com/maps/api/js?key=SUA_KEY_DO_GOOGLE_MAPS_AQUI&callback=initMap"
         async defer></script>
         <%
 

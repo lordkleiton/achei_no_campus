@@ -2,7 +2,6 @@
     Document   : testeLogin
     Created on : 03/06/2017, 02:44:42
     Author     : lord
-    FB ID: 306667859761619
 
 --%>
 
@@ -41,7 +40,7 @@
 
             window.fbAsyncInit = function () {
                 FB.init({
-                    appId: '306667859761619',
+                    appId: 'SUA_KEY_DO_FACEBOOK_AQUI',
                     cookie: true, // enable cookies to allow the server to access 
                     // the session
                     xfbml: true, // parse social plugins on this page

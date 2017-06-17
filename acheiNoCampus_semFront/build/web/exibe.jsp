@@ -4,10 +4,6 @@
     Author     : lord
 --%>
 
-<%--
-    Minha key do Google Maps: AIzaSyA6_6yiYvclHBE3E0kdtsPkDqxax7nAks8
---%>
-
 <%@page import="servlets.servletExibe.*"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@page import="java.util.*" %>
@@ -44,7 +40,7 @@
                     //declara os scripts que vão ser usados
                     out.print("<div id=\"map\"></div>");
                     out.print("<script src=\"https://maps.googleapis.com/maps/ap"
-                            + "i/js?key=AIzaSyA6_6yiYvclHBE3E0kdtsPkDqxax7nAks8&"
+                            + "i/js?key=SUA_KEY_DO_GOOGLE_MAPS_AQUI&"
                             + "callback=initMap\" async defer></script>");
                     out.print("<script src=\"assets/js/geraMapaIndividual.js\" d"
                             + "efer></script>");
