@@ -6,10 +6,7 @@ Desenvolvido para a disciplina de Projeto Integrado 1 pela equipe Light Wave, do
 
 # Tecnologias usadas
   
-  O backend foi totalmente implementado em Java Web, com banco de dados em MySQL
-  O front será totalmente em CSS 3/HTML 5/JavaScript
-  Possui integração com Google Maps
-  Possui integração com Facebook
+  O backend foi totalmente implementado em Java Web, com banco de dados em MySQL; o front será totalmente em CSS 3/HTML 5/JavaScript; possui integração com Google Maps; possui integração com Facebook
 
 # Status atual:
 
@@ -18,9 +15,9 @@ Desenvolvido para a disciplina de Projeto Integrado 1 pela equipe Light Wave, do
 # Equipe
 
 A equipe é formada por:
-João Paulo Ribeiro
-Marcilene Damasceno
-Mário Silva
-Vitória Facundo
-William Victor
+João Paulo Ribeiro, 
+Marcilene Damasceno, 
+Mário Silva, 
+Vitória Facundo e 
+William Victor.
   
